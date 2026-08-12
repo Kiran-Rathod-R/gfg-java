@@ -18,7 +18,7 @@ class Solution {
 		        count=1;
 		    }
 		    
-		    
+	
 		    if(count>maxcount){
 		        maxcount=count;
 		        ans=arr[i];
